@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineering%20Student;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;&center=true&width=440&height=45"></a>
 </p>
 
-- 🔭 I’m currently working on my **Fullstack Course**.
+- 🔭 I’m currently working on my **Career** & my **Fullstack Course**.
 
 - 🌱 I’m currently learning **HTML5, CSS3 and JavaScript**.
 
